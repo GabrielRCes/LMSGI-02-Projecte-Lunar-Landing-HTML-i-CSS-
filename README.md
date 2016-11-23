@@ -5,14 +5,15 @@
 En este **_Github_** vamos a ver la tercera práctica del **Módulo**: _"Introducció als Llenguatges de Marques"_ realizado en el instituto [_Francesc de Borjamoll_](http://www.iesfbmoll.org/) a distancia.  
 ![FRANCESC DE BOJAMOLL](http://www.iesfbmoll.org/wp-content/uploads/2013/11/logo_ies_wp1.png)
 
- 1. Índice de archivos subidos como ejemplo.  
-  * Instruction.html
-  * Index.html
-  * img
-  * css
-  * About.html
-  * Rocket 3.0 minify
-  * Rocket 3.0 indent
+ 1. Índice de archivos subidos.  
+
+  * Rocket 3.0 minify _.rar_
+  * Rocket 3.0 indent _.rar_
+    * Instruction.html
+    * Index.html
+    * img
+    * css
+    * About.html
  
  2. Descripción de como se ha realizado la tarea.
 
