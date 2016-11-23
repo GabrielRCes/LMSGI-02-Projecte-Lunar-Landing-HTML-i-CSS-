@@ -19,6 +19,7 @@ En este **_Github_** vamos a ver la tercera práctica del **Módulo**: _"Introdu
 
 Leido punto 2.3 Menús y _Sprites_ y sus sub-puntos, apoyo en la web _w3school_:
 [http://www.w3schools.com/css/css_navbar.asp](http://www.w3schools.com/css/css_navbar.asp)
+
 [http://www.w3schools.com/css/css_dropdowns.asp](http://www.w3schools.com/css/css_dropdowns.asp)
 
 Utilizado HTML proporcionado por el profesor.
