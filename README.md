@@ -35,3 +35,4 @@ Reducido sitio web a través de la web: [http://www.willpeavy.com/minifier/](htt
   * **Nota 2**: Tampoco se ha conseguido realizar un menú desplegable para dispositivo móvil sin verme obligado a modificar el HTML principal, sin embargo se han creado 2 css en función del dispositivo de acceso.
   * **Nota 3**: Para el **panel de control** se ha tomado como referencia la web: [http://moonlander.seb.ly/](http://moonlander.seb.ly/) y por tanto se ha definido muy poco CSS.
   * **Nota 4**: Para la página de "Instruction" y "About" se ha utilizado el mismo código html y css de la plantilla inicial cambiando algunos detalles.
+  * **Nota 5**: Me ha dado un error el validador html por no poner <!DOCTYPE html>, sin embargo, lo he dejado sin rectificar porque sino me da un _**pete**_ de **CSS**.  **:'((((((((**
