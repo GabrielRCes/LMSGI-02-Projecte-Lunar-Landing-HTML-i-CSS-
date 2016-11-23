@@ -22,10 +22,10 @@ Leido punto 2.3 Menús y _Sprites_ y sus sub-puntos, apoyo en la web _w3school_:
 
 [http://www.w3schools.com/css/css_dropdowns.asp](http://www.w3schools.com/css/css_dropdowns.asp)
 
-Utilizado HTML proporcionado por el profesor.
-Imágenes e iconos proporcionados por [http://www.flaticon.com/](http://www.flaticon.com/)
-CSS proporcionado a través de la plantilla del profesor y el resto de [w3schools.com](http://www.w3schools.com)
-Reducido sitio web a través de la web: [http://www.willpeavy.com/minifier/](http://www.willpeavy.com/minifier/)
+Utilizado HTML proporcionado por el profesor. 
+Imágenes e iconos proporcionados por [http://www.flaticon.com/](http://www.flaticon.com/) 
+CSS proporcionado a través de la plantilla del profesor y el resto de [w3schools.com](http://www.w3schools.com) 
+Reducido sitio web a través de la web: [http://www.willpeavy.com/minifier/](http://www.willpeavy.com/minifier/) 
 
 > * **Notas**:
   * **Nota 1**: No se ha realizado ninguna parte del trabajo con "_Sprites_".
